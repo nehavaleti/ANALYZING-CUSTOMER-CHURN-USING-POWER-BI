@@ -84,7 +84,7 @@ The dashboard combines demographic, geographic, behavioral, and financial analys
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./assets/demographics.png)
 
 ---
 
